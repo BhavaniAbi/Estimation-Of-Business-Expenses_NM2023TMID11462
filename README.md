@@ -1,7 +1,10 @@
 # Estimation-Of-Business-Expenses_NM2023TMID11462
-Dashboard link-
-https://public.tableau.com/views/Dashboard_16968491333340/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
-Story link-
-https://public.tableau.com/views/Story_16968494978390/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
-video demonstration link-
-https://photos.app.goo.gl/pS4k9a2KwRfGtvCW9
+Dashboard pulbic 1 link-https://public.tableau.com/views/Book1_16952942753600/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Dashboard public 2 link-https://public.tableau.com/views/Book1_16952942753600/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Dashboard public 3 link-https://public.tableau.com/views/Book1_16952942753600/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
+
+story public 1 link-https://public.tableau.com/views/Book1_16952942753600/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+story public 2 link-https://public.tableau.com/views/Book1_16952942753600/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
